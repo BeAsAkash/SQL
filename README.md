@@ -15,4 +15,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1877-find-followers-count](https://github.com/BeAsAkash/SQL/tree/master/1877-find-followers-count) |
 | [1908-recyclable-and-low-fat-products](https://github.com/BeAsAkash/SQL/tree/master/1908-recyclable-and-low-fat-products) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/BeAsAkash/SQL/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+## Array
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/BeAsAkash/SQL/tree/master/0561-array-partition) |
+## Greedy
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/BeAsAkash/SQL/tree/master/0561-array-partition) |
+## Sorting
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/BeAsAkash/SQL/tree/master/0561-array-partition) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/BeAsAkash/SQL/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
